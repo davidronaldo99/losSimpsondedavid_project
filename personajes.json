@@ -1,0 +1,39 @@
+{
+    "citas": [
+        {
+            "quote": "Shoplifting is a victimless crime, like punching someone in the dark.",
+            "character": "Nelson Muntz",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FNelsonMuntz.png?1497567511185",
+            "characterDirection": "Left",
+            "description": "El matón de la escuela primaria de Springfield."
+        },
+        {
+            "quote": "D'oh!",
+            "character": "Homer Simpson",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+            "characterDirection": "Left",
+            "description": "El patriarca de la familia Simpson."
+        },
+        {
+            "quote": "Eat my shorts",
+            "character": "Bart Simpson",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+            "characterDirection": "Left",
+            "description": "El travieso hijo mayor de la familia Simpson."
+        },
+        {
+            "quote": "I'm in danger!",
+            "character": "Ralph Wiggum",
+            "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Ralph_Wiggum.png",
+            "characterDirection": "Left",
+            "description": "El inocente e ingenuo compañero de clase de Lisa Simpson."
+        },
+        {
+            "quote": "Don't cry for me, I'm already dead.",
+            "character": "Barney Gumble",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Barney_Gumble.png",
+            "characterDirection": "Left",
+            "description": "El mejor amigo de Homer Simpson y bebedor habitual en la taberna de Moe."
+        }
+    ]
+}

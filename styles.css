@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://www.nexofin.com/archivos/2021/02/springfield-simpson.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    margin: 10px;
+    width: 18rem; /* Ancho fijo para cada tarjeta */
+    display: inline-block; /* Muestra las tarjetas en línea */
+    vertical-align: top; /* Alinea las tarjetas en la parte superior */
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+    width: 100%;
+    height: auto; /* Altura automática para mantener la proporción */
+    object-fit: cover; /* Ajusta la imagen para que cubra el contenedor */
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    margin-top: 0;
+    font-size: 1.5rem; /* Aumenta el tamaño del nombre del personaje */
+    font-weight: bold; /* Hace el nombre del personaje en negrita */
+    color: #333; /* Cambia el color del nombre del personaje */
+}
+
+.card-text {
+    color: #666;
+    font-size: 1.1rem; /* Aumenta el tamaño de la descripción del personaje */
+    line-height: 1.5; /* Aumenta el espaciado entre líneas de la descripción */
+}
